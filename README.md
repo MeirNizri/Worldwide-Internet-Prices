@@ -2,7 +2,7 @@
 <h3 align="center">Authors: Meir Nizri; Ron Alfi; Dean Dahan</h3>
 <h5 align="center">Date: September 2022</h5>
 
-**Datasets links (click to move dataset page):**  
+**Datasets links (click to move to dataset page):**  
 [Internet prices data](https://www.kaggle.com/datasets/ramjasmaurya/1-gb-internet-price)   
 [GDP per capita data](https://www.kaggle.com/datasets/zgrcemta/world-gdpgdp-gdp-per-capita-and-annual-growths) 
   
