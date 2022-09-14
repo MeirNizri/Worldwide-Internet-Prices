@@ -1,5 +1,5 @@
 <h1 align="center">WorldWide Internet Prices </h1>
-<h3 align="center">Authors: Meir Nizri; Ron Alfi; Dean Dahan (Group: 18)</h3>
+<h3 align="center">Authors: Meir Nizri; Ron Alfi; Dean Dahan</h3>
 <h5 align="center">Date: September 2022</h5>
 
 **Datasets links (click to move dataset page):**  
